@@ -13,12 +13,12 @@ public class Operator08 {
 
 		int num2 = 17;
 		String result2 = null;
-		
-		if (num2>=0) {
-			result2="num은 양수";
-		}else {
-			result2="num은 음수";
+
+		if (num2 >= 0) {
+			result2 = "num은 양수";
+		} else {
+			result2 = "num은 음수";
 		}
-		System.out.println("result2: "+result2);
+		System.out.println("result2: " + result2);
 	}
 }
