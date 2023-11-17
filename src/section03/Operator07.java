@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 
 /*
  * 7. 쉬프트 연산자

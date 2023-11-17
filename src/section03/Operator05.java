@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 
 /*
  * 5. 대입 연산자

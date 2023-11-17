@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 /*
  * 연산자(Operator)
  * 	프로그램에서 데이터를 처리하여 산출하는 것을 연산이라 한다.

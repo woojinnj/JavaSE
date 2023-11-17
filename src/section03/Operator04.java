@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 
 /*
  * 4. 논리 연산자

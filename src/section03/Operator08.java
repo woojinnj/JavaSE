@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 
 /*
  * 8. 삼항 연산자

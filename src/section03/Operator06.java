@@ -1,4 +1,4 @@
-package Section03;
+package section03;
 
 /*
  * 6. 비트 연산자
